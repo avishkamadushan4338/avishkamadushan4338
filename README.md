@@ -1,9 +1,9 @@
-<!-- Profile Header -->
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Avishka Madushan</h1>
 <h3 align="center">💻 Software Developer | 🚀 Undergraduate | 💡 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🇱🇰 Based in **Sri Lanka**  
 - 🎓 Undergraduate at **University of Westminster**  
 - 💡 Passionate about **Web Development & Python Programming**  
-- ⚡ Interested in building **real-world scalable systems**  
+- ⚡ Building real-world systems & scalable apps  
 
 ---
 
@@ -30,6 +30,10 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 📈 Contribution Graph (Commits)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
