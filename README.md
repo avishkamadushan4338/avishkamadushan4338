@@ -12,7 +12,7 @@
 - 🇱🇰 Based in **Sri Lanka**  
 - 🎓 Undergraduate at **University of Westminster**  
 - 💡 Passionate about **Web Development & Python Programming**  
-- ⚡ Building real-world systems & scalable apps  
+- ⚡ Building real-world scalable applications  
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -33,10 +33,10 @@
 
 ---
 
-## 📈 Contribution Graph (Commits)
+## 📅 Contribution Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/409ba5/yourusername" alt="GitHub Contribution Chart"/>
 </p>
 
 ---
@@ -57,9 +57,6 @@
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
