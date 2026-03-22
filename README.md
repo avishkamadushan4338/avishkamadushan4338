@@ -1,50 +1,65 @@
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen) ![Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social) 
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Avishka Madushan</h1>
+<h3 align="center">💻 Software Developer | 🚀 Undergraduate | 💡 Problem Solver</h3>
 
-## 👋 Hello, I'm **Avishka Madushan**!
-💻 Developer | 🚀 Undergraduate | 💡 Problem Solver  
-
-
-## 🔥 About Me  
-- 🌍 I'm from **Sri Lanka**  
-- 🎯 Passionate about **Web Development, python Programming**  
-- 🔭 I’m currently a Student at the **University of Westminster**.
-
-
-## 🛠️ Tech Stack
-<p align="middle">
-  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" height="50"/>
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" height="50"/>
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" height="50"/>
-  <img src="https://img.shields.io/badge/-Python-green?style=flat&logo=python" height="50"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height=50"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+## 🚀 About Me  
+- 🇱🇰 Based in **Sri Lanka**  
+- 🎓 Undergraduate at **University of Westminster**  
+- 💡 Passionate about **Web Development & Python Programming**  
+- ⚡ Interested in building **real-world scalable systems**  
 
-## 📊 GitHub Contribution
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react)
+---
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-bg=true&column=5&rank=SSS,SS,S,AAA,AA)
+## 🛠️ Tech Stack  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,react,nodejs,flutter,git,github&theme=light" />
+</p>
 
+---
 
+## 📊 GitHub Analytics  
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+</p>
 
+---
 
+## 🏆 Achievements  
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&no-frame=true&column=6"/>
+</p>
 
+---
 
+## 📫 Connect With Me  
 
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-
-
-
-
-
-
-
+## ⚡ Fun Fact  
+> I turn ideas into real-world applications 🚀
